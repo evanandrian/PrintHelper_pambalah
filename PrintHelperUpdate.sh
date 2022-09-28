@@ -1,5 +1,5 @@
 #!/bin/bash
-"C:\PrintHelper\PrintHelperKill.exe" $1 &
+"C:\PrintHelper_pambalah\PrintHelperKill.exe" $1 &
 git pull
 
 

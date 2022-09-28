@@ -1,6 +1,6 @@
 #!/bin/bash
-"E:\PrintHelper\PrintHelperKill.exe" $1 &
+"E:\PrintHelper_pambalah\PrintHelperKill.exe" $1 &
 git pull
-"E:\PrintHelper\PrintHelper.exe" $1 &
+"E:\PrintHelper_pambalah\PrintHelper.exe" $1 &
 
 
